@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\social_net\social_net\bin\Debug\netcoreapp2.1\social_net.deps.json
+C:\Users\Влад\source\repos\social_net\social_net\bin\Debug\netcoreapp2.1\social_net.runtimeconfig.json
+C:\Users\Влад\source\repos\social_net\social_net\bin\Debug\netcoreapp2.1\social_net.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\social_net\social_net\bin\Debug\netcoreapp2.1\social_net.dll
+C:\Users\Влад\source\repos\social_net\social_net\bin\Debug\netcoreapp2.1\social_net.pdb
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.RazorAssemblyInfo.cache
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.RazorAssemblyInfo.cs
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.AssemblyInfo.cs
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.RazorTargetAssemblyInfo.cache
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.dll
+C:\Users\Влад\source\repos\social_net\social_net\obj\Debug\netcoreapp2.1\social_net.pdb
